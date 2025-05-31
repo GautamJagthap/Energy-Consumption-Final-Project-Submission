@@ -1,4 +1,4 @@
-# Energy Consumption and Trend Analysis
+ # Energy Consumption and Trend Analysis
 
 This repository contains the final project submission titled **"Energy Consumption and Trend Analysis"** for the internship under **Edunet Foundation**.
 
@@ -14,5 +14,5 @@ The objective of this project is to analyze patterns, trends, and insights in en
 ## Author
 
 **Gautam Jagthap**
-Intern at Edunet Foundation
+
 GitHub: [GautamJagthap](https://github.com/GautamJagthap)
